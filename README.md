@@ -1,0 +1,2 @@
+# prismic-playground
+CMS test
